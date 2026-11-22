@@ -1,0 +1,306 @@
+id,name_en,name_kn,category,levels,duration,eligibility_en,career_scope_en
+dmlt,Diploma in Medical Lab Technology,ಡಿಎಂಎಲ್‌ಟಿ,paramedical,after_10th|after_puc,2 years,SSLC or PUC,Lab technician
+dpharm,Diploma in Pharmacy (D.Pharm),ಡಿ.ಫಾರ್ಮ್,pharmacy,after_puc,2 years,PUC with Science,Pharmacist
+polytechnic_cs,Diploma in Computer Science,ಡಿಪ್ಲೊಮಾ ಕಂಪ್ಯೂಟರ್ ಸೈನ್ಸ್,engineering,after_10th,3 years,SSLC pass,Software or IT jobs
+iti_electrician,ITI Electrician,ಐಟಿಐ ಎಲೆಕ್ಟ್ರಿಷಿಯನ್,iti,after_10th,2 years,SSLC pass,Electrician or government jobs
+bsc_nursing,B.Sc Nursing,ಬಿ.ಎಸ್ಸಿ ನರ್ಸಿಂಗ್,nursing,after_puc,4 years,PUC with Science,Staff nurse
+iti_fitter,ITI Fitter,ಐಟಿಐ ಫಿಟ್ಟರ್,iti,after_10th,2 years,SSLC pass,Fitter or government jobs
+iti_welder,ITI Welder,ಐಟಿಐ ವೆಲ್ಡರ್,iti,after_10th,1 year,SSLC pass,Welder or industry jobs
+puc_science,PUC Science (PCMB/PCMC),ಪಿಯುಸಿ ವಿಜ್ಞಾನ,science,after_10th,2 years,SSLC pass,Engineering or medical or degree
+puc_commerce,PUC Commerce,ಪಿಯುಸಿ ವಾಣಿಜ್ಯ,commerce,after_10th,2 years,SSLC pass,B.Com or CA or BBA
+puc_arts,PUC Arts,ಪಿಯುಸಿ ಕಲಾ,arts,after_10th,2 years,SSLC pass,BA or civil services or teaching
+be_engineering,B.E. / B.Tech,ಬಿ.ಇ. / ಬಿ.ಟೆಕ್,engineering,after_puc,4 years,PUC with PCM and KCET,Engineer or IT jobs
+mbbs,MBBS,ಎಂಬಿಬಿಎಸ್,medical,after_puc,5.5 years,PUC with PCB and NEET,Doctor
+bpharm,B.Pharm,ಬಿ.ಫಾರ್ಮ್,pharmacy,after_puc,4 years,PUC with PCB or PCM,Pharmacist or pharma industry
+bcom,B.Com,ಬಿ.ಕಾಂ,commerce,after_puc,3 years,PUC pass,Accountant or banking or CA
+bsc,B.Sc,ಬಿ.ಎಸ್ಸಿ,science,after_puc,3 years,PUC Science,Research or teaching or M.Sc
+ba,BA,ಬಿ.ಎ,arts,after_puc,3 years,PUC pass,Civil services or teaching or journalism
+bca,BCA,ಬಿ.ಸಿ.ಎ,computer,after_puc,3 years,PUC pass,Software developer or IT jobs
+llb_5yr,BA LLB (5 years),ಬಿ.ಎ ಎಲ್‌ಎಲ್‌ಬಿ,law,after_puc,5 years,PUC pass and CLAT or state entrance,Lawyer or judiciary
+dce_lateral,B.E. Lateral Entry (DCET),ಬಿ.ಇ. ಲ್ಯಾಟರಲ್ ಎಂಟ್ರಿ,engineering,after_diploma,3 years,Diploma pass and DCET,Engineer
+iti_apprentice,Apprenticeship,ಅಪ್ರೆಂಟಿಸ್‌ಶಿಪ್,iti,after_iti,1 year,ITI pass,Industry job with stipend
+mba,MBA,ಎಂಬಿಎ,management,after_degree,2 years,Degree and KMAT or PGCET,Manager
+bed,B.Ed,ಬಿ.ಇಡಿ,education,after_degree,2 years,Degree pass,School teacher
+msc,M.Sc,ಎಂ.ಎಸ್ಸಿ,science,after_degree,2 years,B.Sc pass,Research or lecturer
+mcom,M.Com,ಎಂ.ಕಾಂ,commerce,after_degree,2 years,B.Com pass,Lecturer or finance jobs
+ma,MA,ಎಂ.ಎ,arts,after_degree,2 years,BA pass,Lecturer or civil services
+mca,MCA,ಎಂ.ಸಿ.ಎ,computer,after_degree,2 years,BCA or B.Sc with Maths and KMAT or PGCET,Software engineer
+llb_3yr,LLB (3 years),ಎಲ್‌ಎಲ್‌ಬಿ (3 ವರ್ಷ),law,after_degree,3 years,Any degree and state law entrance,Lawyer or judiciary
+mtech,M.Tech,ಎಂ.ಟೆಕ್,engineering,after_degree,2 years,B.E. and GATE or PGCET,Engineer or lecturer
+mpharm,M.Pharm,ಎಂ.ಫಾರ್ಮ್,pharmacy,after_degree,2 years,B.Pharm and GPAT or PGCET,Pharma research or lecturer
+upsc_kpsc,Civil Services (UPSC / KPSC),ನಾಗರಿಕ ಸೇವೆಗಳು (UPSC / KPSC),government,after_degree,Varies,Any degree,IAS or IPS or KAS officer
+radiology,Diploma in Radiology and Imaging Technology,ಡಿಪ್ಲೊಮಾ ರೇಡಿಯಾಲಜಿ ಮತ್ತು ಇಮೇಜಿಂಗ್ ಟೆಕ್ನಾಲಜಿ,paramedical,after_puc,2 years,PUC Science,X-ray or imaging technician
+ot_technician,Diploma in Operation Theatre Technology,ಡಿಪ್ಲೊಮಾ ಆಪರೇಷನ್ ಥಿಯೇಟರ್ ಟೆಕ್ನಾಲಜಿ,paramedical,after_puc,2 years,PUC Science,OT technician in hospitals
+optometry,Diploma in Optometry,ಡಿಪ್ಲೊಮಾ ಆಪ್ಟೋಮೆಟ್ರಿ,paramedical,after_puc,2 years,PUC Science,Optometrist or eye clinic jobs
+dialysis,Diploma in Dialysis Technology,ಡಿಪ್ಲೊಮಾ ಡಯಾಲಿಸಿಸ್ ಟೆಕ್ನಾಲಜಿ,paramedical,after_puc,2 years,PUC Science,Dialysis technician
+bsc_mlt,B.Sc Medical Laboratory Technology,ಬಿ.ಎಸ್ಸಿ ಮೆಡಿಕಲ್ ಲ್ಯಾಬ್ ಟೆಕ್ನಾಲಜಿ,paramedical,after_puc,3 years,PUC Science,Lab technologist
+bpt,Bachelor of Physiotherapy (BPT),ಬ್ಯಾಚುಲರ್ ಆಫ್ ಫಿಸಿಯೋಥೆರಪಿ,paramedical,after_puc,4.5 years,PUC with PCB,Physiotherapist
+anm,ANM (Auxiliary Nurse Midwife),ಎ.ಎನ್.ಎಂ,nursing,after_10th|after_puc,2 years,SSLC or PUC (check),Health worker or sub-centre nurse
+gnm,GNM (General Nursing and Midwifery),ಜಿ.ಎನ್.ಎಂ,nursing,after_puc,3.5 years,PUC Science preferred,Staff nurse
+pharm_d,Pharm.D,ಫಾರ್ಮ್.ಡಿ,pharmacy,after_puc,6 years,PUC with PCB or PCM,Clinical pharmacist
+bds,BDS (Dental),ಬಿ.ಡಿ.ಎಸ್,medical,after_puc,5 years,PUC with PCB and NEET,Dentist
+bams,BAMS (Ayurveda),ಬಿ.ಎ.ಎಂ.ಎಸ್,medical,after_puc,5.5 years,PUC with PCB and NEET,Ayurveda doctor
+bhms,BHMS (Homeopathy),ಬಿ.ಎಚ್.ಎಂ.ಎಸ್,medical,after_puc,5.5 years,PUC with PCB and NEET,Homeopathy doctor
+bvsc,BVSc and AH (Veterinary),ಬಿ.ವಿ.ಎಸ್ಸಿ ಮತ್ತು ಎ.ಎಚ್,medical,after_puc,5 years,PUC with PCB and NEET,Veterinary doctor
+iti_copa,ITI COPA (Computer Operator),ಐಟಿಐ ಕೋಪಾ,iti,after_10th,1 year,SSLC pass,Computer operator or office jobs
+iti_mmv,ITI Mechanic Motor Vehicle,ಐಟಿಐ ಮೆಕಾನಿಕ್ ಮೋಟಾರ್ ವೆಹಿಕಲ್,iti,after_10th,2 years,SSLC pass,Garage mechanic or service centre jobs
+iti_turner,ITI Turner,ಐಟಿಐ ಟರ್ನರ್,iti,after_10th,2 years,SSLC pass,Industry or workshop jobs
+iti_machinist,ITI Machinist,ಐಟಿಐ ಮಷಿನಿಸ್ಟ್,iti,after_10th,2 years,SSLC pass,Machine shop or industry jobs
+iti_electronics,ITI Electronics Mechanic,ಐಟಿಐ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಮೆಕಾನಿಕ್,iti,after_10th,2 years,SSLC pass,Electronics repair or industry jobs
+iti_plumber,ITI Plumber,ಐಟಿಐ ಪ್ಲಂಬರ್,iti,after_10th,1 year,SSLC pass,Plumber or construction jobs
+iti_draughtsman,ITI Draughtsman (Civil),ಐಟಿಐ ಡ್ರಾಫ್ಟ್ಸ್‌ಮನ್ (ಸಿವಿಲ್),iti,after_10th,2 years,SSLC pass,Drafting jobs in construction
+diploma_mech,Diploma in Mechanical Engineering,ಡಿಪ್ಲೊಮಾ ಮೆಕಾನಿಕಲ್ ಇಂಜಿನಿಯರಿಂಗ್,engineering,after_10th,3 years,SSLC pass,Industry jobs or B.E. lateral entry
+diploma_civil,Diploma in Civil Engineering,ಡಿಪ್ಲೊಮಾ ಸಿವಿಲ್ ಇಂಜಿನಿಯರಿಂಗ್,engineering,after_10th,3 years,SSLC pass,Site engineer or government jobs
+diploma_eee,Diploma in Electrical and Electronics,ಡಿಪ್ಲೊಮಾ ಎಲೆಕ್ಟ್ರಿಕಲ್ ಮತ್ತು ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್,engineering,after_10th,3 years,SSLC pass,Electrical supervisor or power sector jobs
+diploma_ece,Diploma in Electronics and Communication,ಡಿಪ್ಲೊಮಾ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಮತ್ತು ಕಮ್ಯುನಿಕೇಶನ್,engineering,after_10th,3 years,SSLC pass,Electronics or telecom jobs
+diploma_lateral_iti,Diploma Lateral Entry (2nd year),ಡಿಪ್ಲೊಮಾ ಲ್ಯಾಟರಲ್ ಎಂಟ್ರಿ (2ನೇ ವರ್ಷ),engineering,after_iti,2 years,ITI pass in related trade (check DTE),Technician or supervisor
+bsc_agri,B.Sc Agriculture,ಬಿ.ಎಸ್ಸಿ ಕೃಷಿ,agriculture,after_puc,4 years,PUC Science and KCET,Agriculture officer or farming business
+bsc_horti,B.Sc Horticulture,ಬಿ.ಎಸ್ಸಿ ತೋಟಗಾರಿಕೆ,agriculture,after_puc,4 years,PUC Science and KCET,Horticulture officer or nursery business
+bba,BBA,ಬಿ.ಬಿ.ಎ,management,after_puc,3 years,PUC pass,Manager trainee or MBA
+bhm,Bachelor of Hotel Management (BHM),ಬ್ಯಾಚುಲರ್ ಆಫ್ ಹೋಟೆಲ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್,hospitality,after_puc,3 to 4 years,PUC pass,Hotel or tourism jobs
+bfa,BFA (Fine Arts),ಬಿ.ಎಫ್.ಎ,fine_arts,after_puc,4 years,PUC pass,Artist or designer
+bped,B.P.Ed (Physical Education),ಬಿ.ಪಿ.ಇಡಿ,sports,after_puc,3 to 4 years,PUC pass and fitness test,PE teacher or sports coach
+deled,D.El.Ed,ಡಿ.ಎಲ್.ಎಡ್,education,after_puc,2 years,PUC pass,Primary school teacher
+ca,CA (Chartered Accountant),ಸಿ.ಎ,commerce,after_puc,4.5 to 5 years,PUC pass and CA Foundation,Chartered accountant
+cs,CS (Company Secretary),ಸಿ.ಎಸ್,commerce,after_puc,3 to 4 years,PUC pass,Company secretary
+nda,NDA (Defence),ಎನ್.ಡಿ.ಎ,government,after_puc,3 years plus training,PUC and NDA exam,Army or Navy or Air Force officer
+police,Police Constable (KSP),ಪೊಲೀಸ್ ಕಾನ್ಸ್‌ಟೇಬಲ್,government,after_10th|after_puc,Varies,As per recruitment notice,Police department job
+msc_agri,M.Sc Agriculture,ಎಂ.ಎಸ್ಸಿ ಕೃಷಿ,agriculture,after_degree,2 years,B.Sc Agriculture,Scientist or agriculture officer
+msw,MSW (Social Work),ಎಂ.ಎಸ್.ಡಬ್ಲ್ಯೂ,arts,after_degree,2 years,Any degree,NGO or social work jobs
+mlisc,M.Lib.I.Sc (Library Science),ಎಂ.ಲಿಬ್.ಐ.ಎಸ್ಸಿ,arts,after_degree,1 year,Degree and B.Lib,Librarian
+kset_net,KSET / NET (Lecturer eligibility),ಕೆ-ಸೆಟ್ / ನೆಟ್,education,after_degree,Exam,Master's degree,College lecturer
+pgdca,PG Diploma in Computer Applications,ಪಿಜಿ ಡಿಪ್ಲೊಮಾ ಕಂಪ್ಯೂಟರ್ ಅಪ್ಲಿಕೇಶನ್ಸ್,computer,after_degree,1 year,Any degree,IT or office jobs
+skill_courses,Skill Courses (KSDC / PMKVY),ಕೌಶಲ್ಯ ಕೋರ್ಸ್‌ಗಳು (KSDC / PMKVY),skill,after_10th|after_puc|after_iti|after_diploma|after_degree,3 to 6 months,Varies by course,Quick job skills
+puc_science_pcmb,PUC Science (PCMB),ಪಿಯುಸಿ ವಿಜ್ಞಾನ (PCMB),science,after_10th,2 years,SSLC pass,Medical or engineering or degree
+puc_science_pcmc,PUC Science (PCMC / PCME),ಪಿಯುಸಿ ವಿಜ್ಞಾನ (PCMC / PCME),science,after_10th,2 years,SSLC pass,Engineering or computer field
+puc_commerce_ebac,PUC Commerce (EBAC / SEBA / HEBA),ಪಿಯುಸಿ ವಾಣಿಜ್ಯ (EBAC / SEBA),commerce,after_10th,2 years,SSLC pass,B.Com or BBA or CA
+puc_arts_hepsy,PUC Arts (HEP / HEPSY / HESP),ಪಿಯುಸಿ ಕಲಾ (HEP / HEPSY),arts,after_10th,2 years,SSLC pass,BA or civil services
+puc_vocational,PUC Vocational Courses,ಪಿಯುಸಿ ವೃತ್ತಿ ಶಿಕ್ಷಣ,skill,after_10th,2 years,SSLC pass,Job skills plus higher studies
+diploma_auto,Diploma in Automobile Engineering,ಡಿಪ್ಲೊಮಾ ಆಟೋಮೊಬೈಲ್ ಇಂಜಿನಿಯರಿಂಗ್,engineering,after_10th,3 years,SSLC pass,Automobile service or industry jobs
+diploma_cse,Diploma in Computer Science and Engineering,ಡಿಪ್ಲೊಮಾ ಕಂಪ್ಯೂಟರ್ ಸೈನ್ಸ್ ಮತ್ತು ಇಂಜಿನಿಯರಿಂಗ್,engineering,after_10th,3 years,SSLC pass,IT jobs or B.E. lateral entry
+diploma_ise,Diploma in Information Science,ಡಿಪ್ಲೊಮಾ ಇನ್ಫರ್ಮೇಶನ್ ಸೈನ್ಸ್,engineering,after_10th,3 years,SSLC pass,IT jobs
+diploma_chem,Diploma in Chemical Engineering,ಡಿಪ್ಲೊಮಾ ಕೆಮಿಕಲ್ ಇಂಜಿನಿಯರಿಂಗ್,engineering,after_10th,3 years,SSLC pass,Chemical plant jobs
+diploma_textile,Diploma in Textile Technology,ಡಿಪ್ಲೊಮಾ ಟೆಕ್ಸ್‌ಟೈಲ್ ಟೆಕ್ನಾಲಜಿ,engineering,after_10th,3 years,SSLC pass,Textile industry jobs
+diploma_mining,Diploma in Mining Engineering,ಡಿಪ್ಲೊಮಾ ಮೈನಿಂಗ್ ಇಂಜಿನಿಯರಿಂಗ್,engineering,after_10th,3 years,SSLC pass,Mining sector jobs
+diploma_arch,Diploma in Architecture,ಡಿಪ್ಲೊಮಾ ಆರ್ಕಿಟೆಕ್ಚರ್,engineering,after_10th,3 years,SSLC pass,Architectural assistant
+diploma_print,Diploma in Printing Technology,ಡಿಪ್ಲೊಮಾ ಪ್ರಿಂಟಿಂಗ್ ಟೆಕ್ನಾಲಜಿ,engineering,after_10th,3 years,SSLC pass,Printing industry jobs
+diploma_polymer,Diploma in Polymer Technology,ಡಿಪ್ಲೊಮಾ ಪಾಲಿಮರ್ ಟೆಕ್ನಾಲಜಿ,engineering,after_10th,3 years,SSLC pass,Plastic industry jobs
+diploma_biomed,Diploma in Biomedical Engineering,ಡಿಪ್ಲೊಮಾ ಬಯೋಮೆಡಿಕಲ್ ಇಂಜಿನಿಯರಿಂಗ್,engineering,after_10th,3 years,SSLC pass,Hospital equipment technician
+diploma_aero,Diploma in Aeronautical Engineering,ಡಿಪ್ಲೊಮಾ ಏರೋನಾಟಿಕಲ್ ಇಂಜಿನಿಯರಿಂಗ್,engineering,after_10th,3 years,SSLC pass,Aircraft maintenance support
+diploma_ai,Diploma in AI and Machine Learning,ಡಿಪ್ಲೊಮಾ AI ಮತ್ತು ಮೆಷಿನ್ ಲರ್ನಿಂಗ್,engineering,after_10th,3 years,SSLC pass,AI or IT jobs
+diploma_cyber,Diploma in Cyber Security,ಡಿಪ್ಲೊಮಾ ಸೈಬರ್ ಸೆಕ್ಯೂರಿಟಿ,engineering,after_10th,3 years,SSLC pass,Cyber security jobs
+diploma_fashion,Diploma in Fashion Design,ಡಿಪ್ಲೊಮಾ ಫ್ಯಾಷನ್ ಡಿಸೈನ್,design,after_10th|after_puc,2 to 3 years,SSLC or PUC,Fashion designer or boutique
+diploma_interior,Diploma in Interior Design,ಡಿಪ್ಲೊಮಾ ಇಂಟೀರಿಯರ್ ಡಿಸೈನ್,design,after_10th|after_puc,1 to 3 years,SSLC or PUC,Interior designer
+diploma_hotel,Diploma in Hotel Management and Catering,ಡಿಪ್ಲೊಮಾ ಹೋಟೆಲ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ ಮತ್ತು ಕೇಟರಿಂಗ್,hospitality,after_10th|after_puc,2 to 3 years,SSLC or PUC,Hotel or catering jobs
+diploma_fire,Diploma in Fire and Safety,ಡಿಪ್ಲೊಮಾ ಫೈರ್ ಮತ್ತು ಸೇಫ್ಟಿ,skill,after_10th|after_puc,1 to 2 years,SSLC or PUC,Safety officer or fire services
+diploma_dtp,Diploma in DTP and Graphic Design,ಡಿಪ್ಲೊಮಾ DTP ಮತ್ತು ಗ್ರಾಫಿಕ್ ಡಿಸೈನ್,design,after_10th|after_puc,6 months to 1 year,SSLC or PUC,Graphic designer
+diploma_animation,Diploma in Animation and Multimedia,ಡಿಪ್ಲೊಮಾ ಅನಿಮೇಷನ್ ಮತ್ತು ಮಲ್ಟಿಮೀಡಿಯಾ,design,after_10th|after_puc,1 to 3 years,SSLC or PUC,Animator or video editor
+diploma_photo,Diploma in Photography and Videography,ಡಿಪ್ಲೊಮಾ ಫೋಟೋಗ್ರಫಿ ಮತ್ತು ವಿಡಿಯೋಗ್ರಫಿ,media,after_10th|after_puc,6 months to 1 year,SSLC or PUC,Photographer or videographer
+diploma_agri,Diploma in Agriculture,ಡಿಪ್ಲೊಮಾ ಕೃಷಿ,agriculture,after_10th,2 to 3 years,SSLC pass,Farm officer or agri business
+diploma_horti,Diploma in Horticulture,ಡಿಪ್ಲೊಮಾ ತೋಟಗಾರಿಕೆ,agriculture,after_10th,2 to 3 years,SSLC pass,Horticulture assistant
+diploma_seri,Diploma in Sericulture,ಡಿಪ್ಲೊಮಾ ರೇಷ್ಮೆ ಕೃಷಿ,agriculture,after_10th,2 to 3 years,SSLC pass,Sericulture officer or silk farming
+diploma_dairy,Diploma in Dairy Technology,ಡಿಪ್ಲೊಮಾ ಡೈರಿ ಟೆಕ್ನಾಲಜಿ,agriculture,after_10th|after_puc,2 to 3 years,SSLC or PUC,Dairy industry jobs
+diploma_fisheries,Diploma in Fisheries,ಡಿಪ್ಲೊಮಾ ಮೀನುಗಾರಿಕೆ,agriculture,after_10th|after_puc,2 years,SSLC or PUC,Fisheries assistant or fish farming
+diploma_vet,Diploma in Veterinary / Animal Husbandry,ಡಿಪ್ಲೊಮಾ ಪಶುವೈದ್ಯಕೀಯ / ಪಶುಸಂಗೋಪನೆ,agriculture,after_10th|after_puc,2 years,SSLC or PUC,Veterinary assistant
+dip_hi,Diploma in Health Inspector / Sanitary Inspector,ಡಿಪ್ಲೊಮಾ ಹೆಲ್ತ್ ಇನ್ಸ್‌ಪೆಕ್ಟರ್,paramedical,after_puc,1 to 2 years,PUC Science,Health inspector in government
+dip_ecg,Diploma in ECG and Cardiac Technology,ಡಿಪ್ಲೊಮಾ ECG ಮತ್ತು ಕಾರ್ಡಿಯಾಕ್ ಟೆಕ್ನಾಲಜಿ,paramedical,after_puc,2 years,PUC Science,Cardiac technician
+dip_anaesthesia,Diploma in Anaesthesia Technology,ಡಿಪ್ಲೊಮಾ ಅನಸ್ತೇಶಿಯಾ ಟೆಕ್ನಾಲಜಿ,paramedical,after_puc,2 years,PUC Science,Anaesthesia technician
+dip_ct_mri,Diploma in CT and MRI Technology,ಡಿಪ್ಲೊಮಾ CT ಮತ್ತು MRI ಟೆಕ್ನಾಲಜಿ,paramedical,after_puc,2 years,PUC Science,CT or MRI technician
+dip_emt,Diploma in Emergency Medical Technician,ಡಿಪ್ಲೊಮಾ ತುರ್ತು ವೈದ್ಯಕೀಯ ತಂತ್ರಜ್ಞ,paramedical,after_10th|after_puc,1 to 2 years,SSLC or PUC,Ambulance or emergency care
+dip_dental_mech,Diploma in Dental Mechanic,ಡಿಪ್ಲೊಮಾ ಡೆಂಟಲ್ ಮೆಕಾನಿಕ್,paramedical,after_puc,2 years,PUC Science,Dental lab technician
+dip_dental_hyg,Diploma in Dental Hygienist,ಡಿಪ್ಲೊಮಾ ಡೆಂಟಲ್ ಹೈಜೀನಿಸ್ಟ್,paramedical,after_puc,2 years,PUC Science,Dental clinic assistant
+dip_ophthal,Diploma in Ophthalmic Assistant,ಡಿಪ್ಲೊಮಾ ಆಫ್ತಾಲ್ಮಿಕ್ ಅಸಿಸ್ಟೆಂಟ್,paramedical,after_puc,2 years,PUC Science,Eye hospital assistant
+dip_blood_bank,Diploma in Blood Bank Technology,ಡಿಪ್ಲೊಮಾ ಬ್ಲಡ್ ಬ್ಯಾಂಕ್ ಟೆಕ್ನಾಲಜಿ,paramedical,after_puc,2 years,PUC Science,Blood bank technician
+dip_pharm_asst,Pharmacy Assistant Course,ಫಾರ್ಮಸಿ ಅಸಿಸ್ಟೆಂಟ್ ಕೋರ್ಸ್,pharmacy,after_10th|after_puc,6 months to 1 year,SSLC or PUC,Medical shop assistant
+dip_nursing_asst,Nursing Assistant / Home Nursing,ನರ್ಸಿಂಗ್ ಅಸಿಸ್ಟೆಂಟ್ / ಹೋಂ ನರ್ಸಿಂಗ್,nursing,after_10th,6 months to 1 year,SSLC pass,Hospital or home care assistant
+dip_gda,General Duty Assistant (GDA),ಜನರಲ್ ಡ್ಯೂಟಿ ಅಸಿಸ್ಟೆಂಟ್,paramedical,after_10th,3 to 6 months,SSLC pass,Hospital assistant
+dip_physio_asst,Diploma in Physiotherapy Assistant,ಡಿಪ್ಲೊಮಾ ಫಿಸಿಯೋಥೆರಪಿ ಅಸಿಸ್ಟೆಂಟ್,paramedical,after_puc,2 years,PUC Science,Physio clinic assistant
+iti_wireman,ITI Wireman,ಐಟಿಐ ವೈರ್‌ಮ್ಯಾನ್,iti,after_10th,2 years,SSLC pass,Wireman or government jobs
+iti_carpenter,ITI Carpenter,ಐಟಿಐ ಕಾರ್ಪೆಂಟರ್,iti,after_10th,1 to 2 years,SSLC pass,Carpenter or furniture industry
+iti_mason,ITI Mason (Building Constructor),ಐಟಿಐ ಮೇಸನ್,iti,after_10th,1 year,SSLC pass,Construction jobs
+iti_surveyor,ITI Surveyor,ಐಟಿಐ ಸರ್ವೇಯರ್,iti,after_10th,2 years,SSLC pass,Survey assistant
+iti_diesel,ITI Mechanic Diesel,ಐಟಿಐ ಮೆಕಾನಿಕ್ ಡೀಸೆಲ್,iti,after_10th,1 year,SSLC pass,Diesel mechanic
+iti_tractor,ITI Mechanic Tractor,ಐಟಿಐ ಮೆಕಾನಿಕ್ ಟ್ರ್ಯಾಕ್ಟರ್,iti,after_10th,1 year,SSLC pass,Tractor mechanic
+iti_refrig,ITI Refrigeration and AC Mechanic,ಐಟಿಐ ರೆಫ್ರಿಜರೇಶನ್ ಮತ್ತು AC ಮೆಕಾನಿಕ್,iti,after_10th,2 years,SSLC pass,AC technician
+iti_instrument,ITI Instrument Mechanic,ಐಟಿಐ ಇನ್ಸ್ಟ್ರುಮೆಂಟ್ ಮೆಕಾನಿಕ್,iti,after_10th,2 years,SSLC pass,Instrument technician
+iti_sheetmetal,ITI Sheet Metal Worker,ಐಟಿಐ ಶೀಟ್ ಮೆಟಲ್ ವರ್ಕರ್,iti,after_10th,1 year,SSLC pass,Fabrication jobs
+iti_painter,ITI Painter (General),ಐಟಿಐ ಪೇಂಟರ್,iti,after_10th,1 year,SSLC pass,Painter or contractor
+iti_sewing,ITI Sewing Technology,ಐಟಿಐ ಹೊಲಿಗೆ ತಂತ್ರಜ್ಞಾನ,iti,after_10th,1 year,SSLC pass,Garment industry or tailoring
+iti_dress,ITI Dress Making,ಐಟಿಐ ಡ್ರೆಸ್ ಮೇಕಿಂಗ್,iti,after_10th,1 year,SSLC pass,Tailor or boutique
+iti_hair,ITI Hair and Skin Care,ಐಟಿಐ ಹೇರ್ ಮತ್ತು ಸ್ಕಿನ್ ಕೇರ್,iti,after_10th,1 year,SSLC pass,Beauty parlour or salon
+iti_fruit,ITI Fruit and Vegetable Processing,ಐಟಿಐ ಹಣ್ಣು ತರಕಾರಿ ಸಂಸ್ಕರಣೆ,iti,after_10th,1 year,SSLC pass,Food processing
+iti_stenog,ITI Stenography (English / Kannada),ಐಟಿಐ ಶೀಘ್ರಲಿಪಿ,iti,after_10th,1 year,SSLC pass,Stenographer in offices
+iti_secretarial,ITI Secretarial Practice,ಐಟಿಐ ಸೆಕ್ರೆಟೇರಿಯಲ್ ಪ್ರಾಕ್ಟೀಸ್,iti,after_10th,1 year,SSLC pass,Office assistant
+iti_ict,ITI ICT System Maintenance,ಐಟಿಐ ICT ಸಿಸ್ಟಮ್ ಮೇಂಟೆನೆನ್ಸ್,iti,after_10th,2 years,SSLC pass,Computer hardware technician
+iti_solar,ITI Solar Technician,ಐಟಿಐ ಸೋಲಾರ್ ಟೆಕ್ನಿಷಿಯನ್,iti,after_10th,1 year,SSLC pass,Solar installation jobs
+iti_foundry,ITI Foundryman,ಐಟಿಐ ಫೌಂಡ್ರಿಮ್ಯಾನ್,iti,after_10th,1 year,SSLC pass,Foundry industry
+iti_grinder,ITI Grinder,ಐಟಿಐ ಗ್ರೈಂಡರ್,iti,after_10th,1 year,SSLC pass,Workshop jobs
+iti_cnc,ITI CNC / Advanced CNC Machining,ಐಟಿಐ CNC ಮಷಿನಿಂಗ್,iti,after_10th,2 years,SSLC pass,CNC operator
+iti_pasaa,ITI Programming and Systems Administration (PASAA),ಐಟಿಐ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಮತ್ತು ಸಿಸ್ಟಮ್ ಅಡ್ಮಿನ್,iti,after_10th,1 year,SSLC pass,Computer jobs
+iti_lift,ITI Lift and Escalator Technician,ಐಟಿಐ ಲಿಫ್ಟ್ ಟೆಕ್ನಿಷಿಯನ್,iti,after_10th,1 to 2 years,SSLC pass,Lift service jobs
+iti_weaving,ITI Weaving Technician,ಐಟಿಐ ನೇಯ್ಗೆ ತಂತ್ರಜ್ಞ,iti,after_10th,1 year,SSLC pass,Handloom or textile
+iti_dairying,ITI Dairying,ಐಟಿಐ ಡೈರಿಂಗ್,iti,after_8th,1 year,SSLC or 8th (check trade),Dairy farm jobs
+iti_lab,ITI Laboratory Assistant,ಐಟಿಐ ಲ್ಯಾಬ್ ಅಸಿಸ್ಟೆಂಟ್,iti,after_10th,1 year,SSLC pass,Lab assistant
+iti_hospital,ITI Health Sanitary Inspector,ಐಟಿಐ ಹೆಲ್ತ್ ಸ್ಯಾನಿಟರಿ ಇನ್ಸ್‌ಪೆಕ್ಟರ್,iti,after_10th,1 year,SSLC pass,Sanitary inspector
+iti_drone,ITI Drone Technician,ಐಟಿಐ ಡ್ರೋನ್ ಟೆಕ್ನಿಷಿಯನ್,iti,after_10th,6 months to 1 year,SSLC pass,Drone operator
+iti_ev,Electric Vehicle Technician Course,ಎಲೆಕ್ಟ್ರಿಕ್ ವಾಹನ ತಂತ್ರಜ್ಞ ಕೋರ್ಸ್,iti,after_10th,6 months to 1 year,SSLC pass,EV service jobs
+iti_cctv,CCTV and Security System Technician,ಸಿಸಿಟಿವಿ ತಂತ್ರಜ್ಞ,skill,after_10th,3 to 6 months,SSLC pass,CCTV installation jobs
+iti_2w,Two Wheeler Mechanic,ದ್ವಿಚಕ್ರ ವಾಹನ ಮೆಕಾನಿಕ್,skill,after_8th,3 to 6 months,8th or SSLC,Bike mechanic or own garage
+ncvt_mobile,Mobile Phone Repair Technician,ಮೊಬೈಲ್ ರಿಪೇರಿ ತಂತ್ರಜ್ಞ,skill,after_8th,3 to 6 months,8th or SSLC,Mobile repair shop
+skill_tally,Tally and Accounting Course,ಟ್ಯಾಲಿ ಮತ್ತು ಅಕೌಂಟಿಂಗ್ ಕೋರ್ಸ್,skill,after_10th|after_puc|after_degree,3 to 6 months,SSLC or above,Accounts assistant
+skill_dca,Diploma in Computer Applications (DCA),ಕಂಪ್ಯೂಟರ್ ಅಪ್ಲಿಕೇಶನ್ ಡಿಪ್ಲೊಮಾ,skill,after_10th|after_puc,6 months to 1 year,SSLC or PUC,Computer operator
+skill_dm,Digital Marketing Course,ಡಿಜಿಟಲ್ ಮಾರ್ಕೆಟಿಂಗ್ ಕೋರ್ಸ್,skill,after_puc|after_degree,3 to 6 months,PUC or degree,Digital marketer
+skill_web,Web Development Course,ವೆಬ್ ಡೆವಲಪ್‌ಮೆಂಟ್ ಕೋರ್ಸ್,skill,after_puc|after_diploma|after_degree,3 to 6 months,PUC or above,Web developer
+skill_python,Python Programming Course,ಪೈಥಾನ್ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಕೋರ್ಸ್,skill,after_puc|after_diploma|after_degree,3 months,PUC or above,Software jobs
+skill_dataanalytics,Data Analytics Course,ಡೇಟಾ ಅನಾಲಿಟಿಕ್ಸ್ ಕೋರ್ಸ್,skill,after_degree|after_diploma,3 to 6 months,Degree or diploma,Data analyst
+skill_spoken,Spoken English and Communication,ಸ್ಪೋಕನ್ ಇಂಗ್ಲಿಷ್,skill,after_10th|after_puc|after_degree,3 months,Any,Better job chances
+skill_driving,Driving License Training (LMV / HMV),ಡ್ರೈವಿಂಗ್ ತರಬೇತಿ,skill,after_8th,1 to 3 months,Age 18 plus,Driver jobs
+skill_beauty,Beautician Course,ಬ್ಯೂಟಿಷಿಯನ್ ಕೋರ್ಸ್,skill,after_10th,3 to 6 months,SSLC pass,Beauty parlour
+skill_tailoring,Tailoring and Embroidery,ಹೊಲಿಗೆ ಮತ್ತು ಕಸೂತಿ,skill,after_8th,3 to 6 months,Any,Self employment
+skill_cook,Cooking and Bakery Course,ಅಡುಗೆ ಮತ್ತು ಬೇಕರಿ ಕೋರ್ಸ್,skill,after_8th,3 to 6 months,Any,Hotel jobs or own business
+skill_retail,Retail Sales Associate (NSDC),ರಿಟೇಲ್ ಸೇಲ್ಸ್ ಅಸೋಸಿಯೇಟ್,skill,after_10th,3 months,SSLC pass,Retail shop jobs
+skill_security,Security Guard Training,ಸೆಕ್ಯೂರಿಟಿ ಗಾರ್ಡ್ ತರಬೇತಿ,skill,after_8th,1 to 3 months,8th or SSLC,Security jobs
+skill_agri_mech,Farm Machinery Operator,ಕೃಷಿ ಯಂತ್ರ ಚಾಲಕ,agriculture,after_8th,3 months,8th or SSLC,Farm machinery services
+skill_mushroom,Mushroom Cultivation and Bee Keeping,ಅಣಬೆ ಕೃಷಿ ಮತ್ತು ಜೇನು ಸಾಕಣೆ,agriculture,after_8th,1 to 3 months,Any,Self employment
+skill_ca_found,Accounting Technician (AAT / CMA Foundation),ಅಕೌಂಟಿಂಗ್ ಟೆಕ್ನಿಷಿಯನ್,commerce,after_10th|after_puc,1 to 2 years,SSLC or PUC,Accounts jobs
+gov_dsc_8th,Group D Government Jobs,ಗ್ರೂಪ್ ಡಿ ಸರ್ಕಾರಿ ಹುದ್ದೆಗಳು,government,after_8th,Exam,As per notification,Government attender or helper
+gov_fda_sda,FDA / SDA (KPSC / KEA),ಎಫ್‌ಡಿಎ / ಎಸ್‌ಡಿಎ,government,after_puc|after_degree,Exam,PUC for SDA and degree for FDA,Clerk in government office
+gov_pdo_vao,Village Accountant / PDO,ಗ್ರಾಮ ಆಡಳಿತಾಧಿಕಾರಿ / ಪಿಡಿಒ,government,after_puc|after_degree,Exam,As per notification,Village or panchayat officer
+gov_ksrtc,KSRTC / BMTC Driver and Conductor,ಕೆಎಸ್‌ಆರ್‌ಟಿಸಿ / ಬಿಎಂಟಿಸಿ ಚಾಲಕ ನಿರ್ವಾಹಕ,government,after_10th,Exam,SSLC and license,Driver or conductor
+gov_fireman,Fireman (Karnataka Fire Services),ಅಗ್ನಿಶಾಮಕ ಸಿಬ್ಬಂದಿ,government,after_10th|after_puc,Exam,As per notification,Fireman
+gov_forest,Forest Guard / Forester,ಅರಣ್ಯ ರಕ್ಷಕ / ಫಾರೆಸ್ಟರ್,government,after_puc|after_degree,Exam,As per notification,Forest department job
+gov_si,Police Sub Inspector (PSI),ಪೊಲೀಸ್ ಸಬ್ ಇನ್ಸ್‌ಪೆಕ್ಟರ್,government,after_degree,Exam,Any degree,Police officer
+gov_rrb_ntpc,Railway NTPC / Group D (RRB),ರೈಲ್ವೆ NTPC / ಗ್ರೂಪ್ ಡಿ,government,after_10th|after_puc|after_degree,Exam,As per RRB notification,Railway jobs
+gov_ssc,SSC CGL / CHSL / MTS,ಎಸ್‌ಎಸ್‌ಸಿ CGL / CHSL / MTS,government,after_10th|after_puc|after_degree,Exam,As per SSC notification,Central government jobs
+gov_banking,Bank Jobs (IBPS / SBI),ಬ್ಯಾಂಕ್ ಉದ್ಯೋಗ (IBPS / SBI),government,after_degree,Exam,Any degree,Bank clerk or PO
+gov_agniveer,Agniveer (Army / Navy / Air Force),ಅಗ್ನಿವೀರ್,government,after_10th|after_puc,4 years,As per notification and age limit,Armed forces
+gov_army_tech,Army Technical Entry,ಸೇನಾ ತಾಂತ್ರಿಕ ಪ್ರವೇಶ,government,after_puc,Varies,PUC with PCM,Army officer
+gov_cds,CDS (Combined Defence Services),ಸಿಡಿಎಸ್,government,after_degree,Exam,Degree,Officer in defence
+gov_teacher_tet,Teacher Recruitment (KARTET / CET),ಶಿಕ್ಷಕರ ನೇಮಕಾತಿ (KARTET),government,after_puc|after_degree,Exam,D.El.Ed or B.Ed,Government teacher
+gov_kas,KAS (Karnataka Administrative Service),ಕೆಎಎಸ್,government,after_degree,Exam,Any degree,Gazetted officer
+gov_je_pwd,Junior Engineer (PWD / KPTCL / KUWSDB),ಜೂನಿಯರ್ ಇಂಜಿನಿಯರ್,government,after_diploma,Exam,Diploma in related branch,Junior engineer
+gov_ctl_iti,Government Jobs for ITI Holders,ಐಟಿಐ ಅರ್ಹತೆಯ ಸರ್ಕಾರಿ ಉದ್ಯೋಗ,government,after_iti,Varies,ITI in related trade,Technician or helper
+gov_rrb_alp,Railway ALP / Technician,ರೈಲ್ವೆ ALP / ಟೆಕ್ನಿಷಿಯನ್,government,after_iti|after_diploma,Exam,ITI or diploma,Loco pilot assistant or technician
+iti_nac,Apprenticeship under NAPS / RDAT,ಅಪ್ರೆಂಟಿಸ್‌ಶಿಪ್ (NAPS),iti,after_iti,1 to 2 years,ITI pass,Industry training with stipend
+iti_diploma_direct,Diploma Direct 2nd Year Entry (ITI),ಡಿಪ್ಲೊಮಾ ನೇರ ಎರಡನೇ ವರ್ಷ ಪ್ರವೇಶ,engineering,after_iti,2 years,ITI with required marks (check DTE),Diploma holder
+iti_bvoc,B.Voc (Bachelor of Vocation),ಬಿ.ವೋಕ್,skill,after_iti|after_puc,3 years,ITI or PUC,Skilled professional
+iti_own,Start Own Workshop / Self Employment,ಸ್ವಂತ ವರ್ಕ್‌ಶಾಪ್ / ಸ್ವಯಂ ಉದ್ಯೋಗ,skill,after_iti,Varies,ITI pass,Entrepreneur
+iti_instructor,Craft Instructor Training (CITS),ಕ್ರಾಫ್ಟ್ ಇನ್‌ಸ್ಟ್ರಕ್ಟರ್ ತರಬೇತಿ,education,after_iti|after_diploma,1 year,ITI or diploma,ITI instructor
+iti_nios,Open School 10th / 12th (KSOS / NIOS),ಮುಕ್ತ ಶಾಲೆ 10ನೇ / 12ನೇ,education,after_iti,1 to 2 years,Any,Higher studies
+iti_gulf,Overseas Skilled Jobs (Gulf / Europe),ವಿದೇಶಿ ಕೌಶಲ್ಯ ಉದ್ಯೋಗ,skill,after_iti,Varies,ITI with experience,Overseas job
+bsc_pcm,B.Sc (Physics Chemistry Maths),ಬಿ.ಎಸ್ಸಿ (PCM),science,after_puc,3 years,PUC Science,Research or teaching or M.Sc
+bsc_cbz,B.Sc (Chemistry Botany Zoology),ಬಿ.ಎಸ್ಸಿ (CBZ),science,after_puc,3 years,PUC Science,Lab or research or M.Sc
+bsc_cs,B.Sc Computer Science,ಬಿ.ಎಸ್ಸಿ ಕಂಪ್ಯೂಟರ್ ಸೈನ್ಸ್,computer,after_puc,3 years,PUC pass,Software jobs
+bsc_biotech,B.Sc Biotechnology,ಬಿ.ಎಸ್ಸಿ ಬಯೋಟೆಕ್ನಾಲಜಿ,science,after_puc,3 years,PUC Science,Biotech industry or research
+bsc_micro,B.Sc Microbiology,ಬಿ.ಎಸ್ಸಿ ಮೈಕ್ರೋಬಯಾಲಜಿ,science,after_puc,3 years,PUC Science,Lab jobs or research
+bsc_forensic,B.Sc Forensic Science,ಬಿ.ಎಸ್ಸಿ ಫೊರೆನ್ಸಿಕ್ ಸೈನ್ಸ್,science,after_puc,3 years,PUC Science,Forensic lab jobs
+bsc_env,B.Sc Environmental Science,ಬಿ.ಎಸ್ಸಿ ಪರಿಸರ ವಿಜ್ಞಾನ,science,after_puc,3 years,PUC Science,Environment sector jobs
+bsc_stat,B.Sc Statistics,ಬಿ.ಎಸ್ಸಿ ಸಂಖ್ಯಾಶಾಸ್ತ್ರ,science,after_puc,3 years,PUC with Maths,Data analyst
+bsc_geology,B.Sc Geology,ಬಿ.ಎಸ್ಸಿ ಭೂವಿಜ್ಞಾನ,science,after_puc,3 years,PUC Science,Geologist
+bsc_food,B.Sc Food Technology / Nutrition,ಬಿ.ಎಸ್ಸಿ ಆಹಾರ ತಂತ್ರಜ್ಞಾನ,science,after_puc,3 years,PUC Science,Food industry or dietician
+bsc_fashion,B.Sc Fashion and Apparel Design,ಬಿ.ಎಸ್ಸಿ ಫ್ಯಾಷನ್ ಡಿಸೈನ್,design,after_puc,3 years,PUC pass,Fashion industry
+bsc_home,B.Sc Home Science,ಬಿ.ಎಸ್ಸಿ ಗೃಹ ವಿಜ್ಞಾನ,science,after_puc,3 years,PUC pass,Nutrition or textile jobs
+bsc_forestry,B.Sc Forestry,ಬಿ.ಎಸ್ಸಿ ಅರಣ್ಯ ವಿಜ್ಞಾನ,agriculture,after_puc,4 years,PUC Science,Forest officer
+bsc_fisheries,B.F.Sc (Fisheries Science),ಬಿ.ಎಫ್.ಎಸ್ಸಿ ಮೀನುಗಾರಿಕೆ,agriculture,after_puc,4 years,PUC Science,Fisheries officer
+bsc_sericulture,B.Sc Sericulture,ಬಿ.ಎಸ್ಸಿ ರೇಷ್ಮೆ ಕೃಷಿ,agriculture,after_puc,4 years,PUC Science,Sericulture officer
+btech_dairy,B.Tech Dairy / Food Technology,ಬಿ.ಟೆಕ್ ಡೈರಿ / ಆಹಾರ ತಂತ್ರಜ್ಞಾನ,agriculture,after_puc,4 years,PUC with PCM or PCB,Dairy or food industry
+bsc_agri_biz,B.Sc Agri Business Management,ಬಿ.ಎಸ್ಸಿ ಕೃಷಿ ವ್ಯವಹಾರ,agriculture,after_puc,4 years,PUC Science,Agri business
+btech_cse,B.E. Computer Science and Engineering,ಬಿ.ಇ. ಕಂಪ್ಯೂಟರ್ ಸೈನ್ಸ್,engineering,after_puc,4 years,PUC with PCM and KCET or COMEDK,Software engineer
+btech_ai,B.E. Artificial Intelligence and ML,ಬಿ.ಇ. ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ,engineering,after_puc,4 years,PUC with PCM and KCET,AI engineer
+btech_ece,B.E. Electronics and Communication,ಬಿ.ಇ. ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಮತ್ತು ಕಮ್ಯುನಿಕೇಶನ್,engineering,after_puc,4 years,PUC with PCM and KCET,Electronics or telecom
+btech_eee,B.E. Electrical and Electronics,ಬಿ.ಇ. ಎಲೆಕ್ಟ್ರಿಕಲ್,engineering,after_puc,4 years,PUC with PCM and KCET,Power sector
+btech_mech,B.E. Mechanical Engineering,ಬಿ.ಇ. ಮೆಕಾನಿಕಲ್,engineering,after_puc,4 years,PUC with PCM and KCET,Manufacturing or automobile
+btech_civil,B.E. Civil Engineering,ಬಿ.ಇ. ಸಿವಿಲ್,engineering,after_puc,4 years,PUC with PCM and KCET,Construction or government
+btech_ise,B.E. Information Science,ಬಿ.ಇ. ಇನ್ಫರ್ಮೇಶನ್ ಸೈನ್ಸ್,engineering,after_puc,4 years,PUC with PCM and KCET,IT jobs
+btech_biotech,B.E. Biotechnology,ಬಿ.ಇ. ಬಯೋಟೆಕ್ನಾಲಜಿ,engineering,after_puc,4 years,PUC with PCB or PCM and KCET,Biotech industry
+btech_chem,B.E. Chemical Engineering,ಬಿ.ಇ. ಕೆಮಿಕಲ್,engineering,after_puc,4 years,PUC with PCM and KCET,Chemical industry
+btech_aero,B.E. Aeronautical / Aerospace,ಬಿ.ಇ. ಏರೋನಾಟಿಕಲ್,engineering,after_puc,4 years,PUC with PCM and KCET,Aerospace industry
+btech_robotics,B.E. Robotics and Automation,ಬಿ.ಇ. ರೋಬೋಟಿಕ್ಸ್,engineering,after_puc,4 years,PUC with PCM and KCET,Automation jobs
+btech_data,B.E. Data Science / Cyber Security,ಬಿ.ಇ. ಡೇಟಾ ಸೈನ್ಸ್ / ಸೈಬರ್ ಸೆಕ್ಯೂರಿಟಿ,engineering,after_puc,4 years,PUC with PCM and KCET,Data or security jobs
+barch,B.Arch (Architecture),ಬಿ.ಆರ್ಚ್,engineering,after_puc,5 years,PUC with PCM and NATA,Architect
+bdes,B.Des (Design),ಬಿ.ಡೆಸ್,design,after_puc,4 years,PUC pass and entrance,Designer
+bsc_nursing_post,Post Basic B.Sc Nursing,ಪೋಸ್ಟ್ ಬೇಸಿಕ್ ಬಿ.ಎಸ್ಸಿ ನರ್ಸಿಂಗ್,nursing,after_diploma|after_degree,2 years,GNM pass,Senior nurse
+bsc_ot,B.Sc Operation Theatre Technology,ಬಿ.ಎಸ್ಸಿ ಓಟಿ ಟೆಕ್ನಾಲಜಿ,paramedical,after_puc,3 to 4 years,PUC Science,OT technologist
+bsc_radiology,B.Sc Radiology and Imaging,ಬಿ.ಎಸ್ಸಿ ರೇಡಿಯಾಲಜಿ,paramedical,after_puc,3 to 4 years,PUC Science,Radiographer
+bsc_optometry,B.Optom (Optometry),ಬಿ.ಆಪ್ಟೋಮ್,paramedical,after_puc,4 years,PUC Science,Optometrist
+bsc_anaesthesia,B.Sc Anaesthesia Technology,ಬಿ.ಎಸ್ಸಿ ಅನಸ್ತೇಶಿಯಾ,paramedical,after_puc,3 to 4 years,PUC Science,Anaesthesia technologist
+bsc_dialysis,B.Sc Renal Dialysis Technology,ಬಿ.ಎಸ್ಸಿ ಡಯಾಲಿಸಿಸ್,paramedical,after_puc,3 to 4 years,PUC Science,Dialysis technologist
+bsc_cardiac,B.Sc Cardiac Care Technology,ಬಿ.ಎಸ್ಸಿ ಕಾರ್ಡಿಯಾಕ್ ಕೇರ್,paramedical,after_puc,3 to 4 years,PUC Science,Cardiac technologist
+bsc_emergency,B.Sc Emergency and Trauma Care,ಬಿ.ಎಸ್ಸಿ ತುರ್ತು ಆರೈಕೆ,paramedical,after_puc,3 to 4 years,PUC Science,Emergency care technologist
+bsc_audiology,B.Sc Audiology and Speech (BASLP),ಬಿ.ಎ.ಎಸ್.ಎಲ್.ಪಿ,paramedical,after_puc,4 years,PUC Science,Audiologist or speech therapist
+bsc_occupational,Bachelor of Occupational Therapy (BOT),ಬಿ.ಓ.ಟಿ,paramedical,after_puc,4.5 years,PUC Science,Occupational therapist
+bsc_nutrition,B.Sc Nutrition and Dietetics,ಬಿ.ಎಸ್ಸಿ ನ್ಯೂಟ್ರಿಷನ್,paramedical,after_puc,3 years,PUC Science,Dietician
+bsc_perfusion,B.Sc Perfusion Technology,ಬಿ.ಎಸ್ಸಿ ಪರ್ಫ್ಯೂಷನ್,paramedical,after_puc,3 to 4 years,PUC Science,Perfusionist
+bsc_hospital_admin,B.Sc Hospital Administration,ಬಿ.ಎಸ್ಸಿ ಹಾಸ್ಪಿಟಲ್ ಅಡ್ಮಿನ್,management,after_puc,3 years,PUC pass,Hospital manager
+bunani,BUMS (Unani),ಬಿ.ಯು.ಎಂ.ಎಸ್,medical,after_puc,5.5 years,PUC with PCB and NEET,Unani doctor
+bnys,BNYS (Naturopathy and Yoga),ಬಿ.ಎನ್.ವೈ.ಎಸ್,medical,after_puc,5.5 years,PUC with PCB and NEET,Naturopathy doctor
+bsms,BSMS (Siddha),ಬಿ.ಎಸ್.ಎಂ.ಎಸ್,medical,after_puc,5.5 years,PUC with PCB and NEET,Siddha doctor
+llb_hons,BBA LLB / B.Com LLB,ಬಿ.ಬಿ.ಎ ಎಲ್‌ಎಲ್‌ಬಿ,law,after_puc,5 years,PUC pass and CLAT or state entrance,Corporate lawyer
+bjmc,BA Journalism and Mass Communication,ಬಿ.ಎ ಪತ್ರಿಕೋದ್ಯಮ,media,after_puc,3 years,PUC pass,Journalist or media jobs
+bsc_media,B.Sc Visual Communication / Animation,ಬಿ.ಎಸ್ಸಿ ವಿಷುಯಲ್ ಕಮ್ಯುನಿಕೇಶನ್,media,after_puc,3 years,PUC pass,Media or animation jobs
+bba_aviation,BBA Aviation / Airport Management,ಬಿ.ಬಿ.ಎ ಏವಿಯೇಶನ್,management,after_puc,3 years,PUC pass,Airline or airport jobs
+bsc_cabin,Cabin Crew / Air Hostess Training,ಕ್ಯಾಬಿನ್ ಕ್ರೂ ತರಬೇತಿ,aviation,after_puc,6 months to 1 year,PUC pass,Airline cabin crew
+pilot,Commercial Pilot License (CPL),ಕಮರ್ಷಿಯಲ್ ಪೈಲಟ್ ಲೈಸೆನ್ಸ್,aviation,after_puc,1.5 to 3 years,PUC with PCM,Pilot
+bsc_music,Bachelor of Performing Arts (Music / Dance),ಬ್ಯಾಚುಲರ್ ಆಫ್ ಪರ್ಫಾರ್ಮಿಂಗ್ ಆರ್ಟ್ಸ್,fine_arts,after_puc,3 to 4 years,PUC pass,Artist or teacher
+bsc_theatre,Drama and Theatre Arts,ನಾಟಕ ಮತ್ತು ರಂಗಭೂಮಿ,fine_arts,after_puc,Varies,PUC pass,Theatre artist
+bsc_yoga,Yoga Certificate / Diploma / B.Sc Yoga,ಯೋಗ ಪ್ರಮಾಣಪತ್ರ / ಡಿಪ್ಲೊಮಾ,sports,after_10th|after_puc,6 months to 3 years,SSLC or PUC,Yoga teacher
+bsc_sports_sci,B.Sc Sports Science,ಬಿ.ಎಸ್ಸಿ ಕ್ರೀಡಾ ವಿಜ್ಞಾನ,sports,after_puc,3 years,PUC pass,Sports trainer
+bsc_ssw,Sports Quota Admissions,ಕ್ರೀಡಾ ಕೋಟಾ ಪ್ರವೇಶ,sports,after_10th|after_puc,Varies,Sports certificate,Sports career
+bsc_events,Event Management Course,ಈವೆಂಟ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ ಕೋರ್ಸ್,management,after_puc|after_degree,3 months to 1 year,PUC or degree,Event manager
+bsc_tourism,BBA / BA Tourism and Travel,ಟೂರಿಸಂ ಮತ್ತು ಟ್ರಾವೆಲ್,hospitality,after_puc,3 years,PUC pass,Travel industry
+bsc_library,B.Lib.I.Sc (Library Science),ಬಿ.ಲಿಬ್.ಐ.ಎಸ್ಸಿ,arts,after_degree,1 year,Any degree,Librarian
+bsc_sanskrit,BA Sanskrit / Kannada / Hindi / English Honours,ಬಿ.ಎ ಭಾಷಾ ಅಧ್ಯಯನ,arts,after_puc,3 years,PUC pass,Teaching or translation
+bsc_psychology,BA / B.Sc Psychology,ಬಿ.ಎ / ಬಿ.ಎಸ್ಸಿ ಮನೋವಿಜ್ಞಾನ,arts,after_puc,3 years,PUC pass,Counsellor or psychologist
+bsc_econ,BA Economics / Political Science / History,ಬಿ.ಎ ಅರ್ಥಶಾಸ್ತ್ರ / ರಾಜ್ಯಶಾಸ್ತ್ರ,arts,after_puc,3 years,PUC pass,Civil services or teaching
+bsc_bsw,BSW (Social Work),ಬಿ.ಎಸ್.ಡಬ್ಲ್ಯೂ,arts,after_puc,3 years,PUC pass,NGO or social work
+bcom_ca,B.Com (CA / Professional / Honours),ಬಿ.ಕಾಂ (CA / ಪ್ರೊಫೆಷನಲ್),commerce,after_puc,3 years,PUC Commerce preferred,Accountant or CA
+bcom_ba,B.Com Banking and Insurance,ಬಿ.ಕಾಂ ಬ್ಯಾಂಕಿಂಗ್,commerce,after_puc,3 years,PUC pass,Bank jobs
+bba_logistics,BBA Logistics and Supply Chain,ಬಿ.ಬಿ.ಎ ಲಾಜಿಸ್ಟಿಕ್ಸ್,management,after_puc,3 years,PUC pass,Logistics jobs
+bbm,BBM (Bachelor of Business Management),ಬಿ.ಬಿ.ಎಂ,management,after_puc,3 years,PUC pass,Management trainee
+cma,CMA (Cost and Management Accountant),ಸಿ.ಎಂ.ಎ,commerce,after_puc|after_degree,4 years,PUC or degree,Cost accountant
+acca,ACCA / CFA / CPA (International),ಎಸಿಸಿಎ / ಸಿಎಫ್ಎ / ಸಿಪಿಎ,commerce,after_puc|after_degree,3 to 4 years,PUC or degree,Finance jobs abroad
+bed_special,B.Ed Special Education,ಬಿ.ಇಡಿ ವಿಶೇಷ ಶಿಕ್ಷಣ,education,after_degree,2 years,Degree,Special educator
+ped_ntt,Nursery Teacher Training (NTT / ECCE),ನರ್ಸರಿ ಶಿಕ್ಷಕರ ತರಬೇತಿ,education,after_10th|after_puc,1 to 2 years,SSLC or PUC,Pre-school teacher
+bed_integrated,Integrated B.Ed (B.A B.Ed / B.Sc B.Ed),ಇಂಟಿಗ್ರೇಟೆಡ್ ಬಿ.ಇಡಿ,education,after_puc,4 years,PUC pass,Teacher
+llb_pg,LLM (Master of Laws),ಎಲ್‌ಎಲ್‌ಎಂ,law,after_degree|after_pg,1 to 2 years,LLB,Advocate or lecturer
+mba_exec,Executive MBA / PGDM,ಎಕ್ಸಿಕ್ಯೂಟಿವ್ ಎಂಬಿಎ / ಪಿಜಿಡಿಎಂ,management,after_degree,1 to 2 years,Degree and work experience,Manager
+mba_hr,MBA (HR / Finance / Marketing),ಎಂಬಿಎ (HR / ಫೈನಾನ್ಸ್ / ಮಾರ್ಕೆಟಿಂಗ್),management,after_degree,2 years,Degree and entrance,Manager
+mba_agri,MBA Agri Business,ಎಂಬಿಎ ಕೃಷಿ ವ್ಯವಹಾರ,management,after_degree,2 years,Degree,Agri manager
+mba_hospital,MBA Hospital Administration,ಎಂಬಿಎ ಹಾಸ್ಪಿಟಲ್ ಅಡ್ಮಿನ್,management,after_degree,2 years,Degree,Hospital administrator
+mba_pgcet,MBA via PGCET / KMAT / CMAT,ಎಂಬಿಎ ಪಿಜಿಸಿಇಟಿ,management,after_degree,2 years,Degree,Manager
+mtech_pg,M.Tech (CS / VLSI / Structural / etc),ಎಂ.ಟೆಕ್,engineering,after_degree,2 years,B.E. and GATE or PGCET,Engineer or researcher
+me_ptech,Part time M.Tech for Working Professionals,ಪಾರ್ಟ್ ಟೈಮ್ ಎಂ.ಟೆಕ್,engineering,after_degree,3 years,B.E. with job,Promotion or lecturer
+msc_cs,M.Sc Computer Science / Data Science,ಎಂ.ಎಸ್ಸಿ ಕಂಪ್ಯೂಟರ್ ಸೈನ್ಸ್,computer,after_degree,2 years,B.Sc or BCA,Software or research
+msc_physics,M.Sc Physics / Chemistry / Maths,ಎಂ.ಎಸ್ಸಿ ಭೌತಶಾಸ್ತ್ರ / ರಸಾಯನಶಾಸ್ತ್ರ,science,after_degree,2 years,B.Sc in same subject,Scientist or lecturer
+msc_bio,M.Sc Biotech / Microbiology / Zoology / Botany,ಎಂ.ಎಸ್ಸಿ ಜೀವ ವಿಜ್ಞಾನ,science,after_degree,2 years,B.Sc in same subject,Researcher or lecturer
+msc_nursing,M.Sc Nursing,ಎಂ.ಎಸ್ಸಿ ನರ್ಸಿಂಗ್,nursing,after_degree,2 years,B.Sc Nursing,Nursing lecturer
+md_ms,MD / MS (Medical PG),ಎಂ.ಡಿ / ಎಂ.ಎಸ್,medical,after_degree,3 years,MBBS and NEET PG,Specialist doctor
+mds,MDS (Dental PG),ಎಂ.ಡಿ.ಎಸ್,medical,after_degree,3 years,BDS and NEET MDS,Dental specialist
+mpt,MPT (Physiotherapy PG),ಎಂ.ಪಿ.ಟಿ,paramedical,after_degree,2 years,BPT,Senior physiotherapist
+mph,MPH (Public Health),ಎಂ.ಪಿ.ಎಚ್,paramedical,after_degree,2 years,Health science degree,Public health officer
+msc_mlt,M.Sc Medical Lab / Radiology / Optometry,ಎಂ.ಎಸ್ಸಿ ಮೆಡಿಕಲ್ ಲ್ಯಾಬ್,paramedical,after_degree,2 years,Related B.Sc,Senior technologist
+mvsc,MVSc (Veterinary PG),ಎಂ.ವಿ.ಎಸ್ಸಿ,medical,after_degree,2 years,BVSc,Veterinary specialist
+mpharm_pg,M.Pharm via GPAT / PGCET,ಎಂ.ಫಾರ್ಮ್ ಜಿಪ್ಯಾಟ್,pharmacy,after_degree,2 years,B.Pharm,Pharma research
+mjmc,MA Journalism and Mass Communication,ಎಂ.ಎ ಪತ್ರಿಕೋದ್ಯಮ,media,after_degree,2 years,Any degree,Journalist or editor
+mfa,MFA (Fine Arts),ಎಂ.ಎಫ್.ಎ,fine_arts,after_degree,2 years,BFA,Artist or lecturer
+med,M.Ed (Master of Education),ಎಂ.ಇಡಿ,education,after_degree,2 years,B.Ed,Teacher educator
+mped,M.P.Ed,ಎಂ.ಪಿ.ಇಡಿ,sports,after_degree,2 years,B.P.Ed,Physical education lecturer
+mcom_ca,M.Com (Finance / Accounting),ಎಂ.ಕಾಂ (ಫೈನಾನ್ಸ್),commerce,after_degree,2 years,B.Com,Finance jobs or lecturer
+march,M.Arch (Architecture PG),ಎಂ.ಆರ್ಚ್,engineering,after_degree,2 years,B.Arch,Senior architect
+mdes,M.Des (Design PG),ಎಂ.ಡೆಸ್,design,after_degree,2 years,B.Des or degree,Design lead
+msc_agri_pg,M.Sc Horticulture / Sericulture / Forestry,ಎಂ.ಎಸ್ಸಿ ತೋಟಗಾರಿಕೆ / ರೇಷ್ಮೆ,agriculture,after_degree,2 years,Related B.Sc,Scientist or officer
+phd,PhD (Doctoral Research),ಪಿಎಚ್.ಡಿ,science,after_pg,3 to 5 years,Master's degree and entrance,Professor or scientist
+mphil,M.Phil / Research Fellowship (JRF),ಎಂ.ಫಿಲ್ / ಜೆಆರ್‌ಎಫ್,science,after_pg,1 to 2 years,Master's degree,Research
+net_jrf,UGC NET / KSET,ಯುಜಿಸಿ ನೆಟ್ / ಕೆ-ಸೆಟ್,education,after_pg,Exam,Master's degree,Assistant professor
+dm_mch,DM / MCh (Super Speciality),ಡಿ.ಎಂ / ಎಂ.ಸಿ.ಎಚ್,medical,after_pg,3 years,MD or MS and NEET SS,Super specialist
+postdoc,Post Doctoral / Fellowship Abroad,ಪೋಸ್ಟ್ ಡಾಕ್ಟರಲ್ ಫೆಲೋಶಿಪ್,science,after_pg,Varies,PhD,Scientist
+pg_lect,Assistant Professor Recruitment (KEA / KPSC),ಸಹಾಯಕ ಪ್ರಾಧ್ಯಾಪಕ ನೇಮಕಾತಿ,government,after_pg,Exam,Master's with NET or SET,Government lecturer
+pg_civil,UPSC Civil Services (IAS / IFS / IPS),ಯುಪಿಎಸ್‌ಸಿ ನಾಗರಿಕ ಸೇವೆ,government,after_pg,Exam,Any degree,IAS or IPS officer
+pg_start,Start Own Business / Startup,ಸ್ವಂತ ಉದ್ಯಮ / ಸ್ಟಾರ್ಟ್‌ಅಪ್,management,after_pg|after_degree,Varies,Any,Entrepreneur
+pg_abroad,Study Abroad (MS / MBA / Fellowship),ವಿದೇಶದಲ್ಲಿ ಅಧ್ಯಯನ,education,after_degree|after_pg,1 to 3 years,Degree and IELTS or GRE,International career
+gov_sports_quota,Sports Quota Government Jobs,ಕ್ರೀಡಾ ಕೋಟಾ ಸರ್ಕಾರಿ ಉದ್ಯೋಗ,sports,after_10th|after_puc|after_degree,Varies,Sports achievement,Government job
+sk_8_iti,After 8th: ITI (selected trades),8ನೇ ನಂತರ ಐಟಿಐ (ಆಯ್ದ ಟ್ರೇಡ್),iti,after_8th,1 to 2 years,8th pass (selected trades),Skilled worker
+sk_8_open,After 8th: Continue 9th and 10th (Regular / Open),8ನೇ ನಂತರ 9 ಮತ್ತು 10ನೇ ತರಗತಿ,education,after_8th,2 years,8th pass,SSLC
+sk_8_skill,After 8th: Short Skill Courses (KSDC / Jan Shikshan Sansthan),8ನೇ ನಂತರ ಕೌಶಲ್ಯ ಕೋರ್ಸ್,skill,after_8th,1 to 6 months,8th pass,Self employment
+sk_8_sports,After 8th: Sports Schools and Residential Schools,8ನೇ ನಂತರ ಕ್ರೀಡಾ ಶಾಲೆ,sports,after_8th,Varies,Selection test,Sportsperson
+sk_8_navodaya,Morarji / Navodaya / Sainik School,ಮೊರಾರ್ಜಿ / ನವೋದಯ / ಸೈನಿಕ ಶಾಲೆ,education,after_8th,Varies,Entrance test,Quality schooling
